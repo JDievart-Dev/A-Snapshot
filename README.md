@@ -1,2 +1,5 @@
 # A-Snapshot
-"A Snapshot" est un site web fictif qui se concentre sur la marque Fujifilm, en mettant en avant les appareils photos X100VI et FinePix X100.
+Nom du projet : A-Snapshot
+Description : Site vitrine pour la marque fictive Fujifilm, mettant en avant leurs appareils photo X100VI et FinePix X100.
+Technologies : HTML, CSS, JavaScript
+Sections à inclure : Accueil, Produits, Caractéristiques, Contact
